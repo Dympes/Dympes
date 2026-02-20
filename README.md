@@ -19,7 +19,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dympes&theme=vue-dark&locale=ru" alt="GitHub Streak" /></a>
 </div>
 
-<h3 align="left">🔥   Приколюха :</h3>
+<h3 align="left">🐱   Приколюха :</h3>
 
 ###
 
