@@ -2,6 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+About me
+
+Languages and Tools
+
+Follow me
 <!--
 **Dympes/Dympes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
