@@ -3,8 +3,6 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 About me
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
 
 Languages and Tools
 
