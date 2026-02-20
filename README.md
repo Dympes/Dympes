@@ -18,12 +18,16 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dympes&theme=vue-dark&locale=ru" alt="GitHub Streak" /></a>
 </div>
-###
+
 <h3 align="left">🔥   Приколюха :</h3>
 
 ###
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
+###
 Follow me
 <!--
 **Dympes/Dympes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
