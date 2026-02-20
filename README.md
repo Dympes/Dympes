@@ -12,7 +12,7 @@
 
 ###
 <h3 align="left">⚡ Технологии:</h3>
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,go,java,vsc,vs" />
   </a>
