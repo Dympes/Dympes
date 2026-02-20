@@ -2,6 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+###
+<h3 align="left">📕 Мои каналы</h3>
+
+- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
+- [Telegram-бота](https://t.me/dympesdev)
+
+###
+
+
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
